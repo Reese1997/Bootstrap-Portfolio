@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+  padding: 20%;
+}
+
+h2 {
+  text-align: center;
+  padding: 10%;
+}
+
+
+body {
+  background-image: url("");
+  background-repeat: no-repeat;
+}
+
+.button {
+  display: block;
+  margin-left: 40%;
+  margin-right: auto;
+  width: 20%;
+  padding: 60px;
+  align-content: center;
+  border-radius: 50%;
+  
+}
+
+.offcanvas {
+  background-color: #222 !important;
+}
+
+
+.reeselogo {
+  display: block;
+  margin-left: 40%;
+  margin-right: auto;
+  width: 20%;
+  padding: 60px;
+}
