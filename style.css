@@ -1,9 +1,20 @@
-h1 {
-  text-align: center;
-  padding: 20%;
+.reeselogo {
+  display: block;
+  margin-left: 35%;
+  margin-right: auto;
+  width: 30%;
+  padding: 60px;
+  margin-top: 150px;
 }
 
-h2 {
+
+.h1 {
+  text-align: center;
+  padding: 20%;
+  margin-top: 150px !important;
+}
+
+.h2 {
   text-align: center;
 }
 
@@ -57,6 +68,7 @@ h2 {
   color: white;
 }
 
+<<<<<<< HEAD
 .projects {
   min-height: 100vh;
   display: grid;
@@ -64,6 +76,16 @@ h2 {
   background-color: #132538 !important;
   color: white;
   margin-top: ;
+=======
+
+.hero-container {
+  background-image: url("./bgblck.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  min-height: 100vh;
+  background-attachment: fixed;
+>>>>>>> 72edc359d7fc286805171f17d7847d45271b2ae9
 }
 
 .button {
@@ -80,6 +102,7 @@ h2 {
   background-color: #222 !important;
 }
 
+<<<<<<< HEAD
 .reeselogo {
   display: block;
   margin-left: 33%;
@@ -134,4 +157,11 @@ h2 {
   margin-left: 550px;
   margin-right: 500px;
   border-radius: 5%;
+=======
+
+.lan{
+  color: white;
+>>>>>>> 72edc359d7fc286805171f17d7847d45271b2ae9
 }
+
+
